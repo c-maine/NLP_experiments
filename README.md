@@ -17,4 +17,4 @@ Short experiments related to Natural Language Processing aimed at gaining a  bet
 
 Below is an example graph from the [MakeYourOwn_TFIDVectorizer notebook](https://github.com/c-maine/NLP_experiments/blob/master/MakeYourOwn_TFIDVectorizer.ipynb), which shows the pairwise distances between documents, a useful feature for search.
 
-![alt text](https://github.com/c-maine/ICU_capacity_modelling_ABM/blob/master/ABM_results/ABM_graphs_vF.ipynb) 
+![alt text](https://github.com/c-maine/NLP_experiments/blob/master/pairwise-distances.png) 
